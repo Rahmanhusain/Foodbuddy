@@ -21,7 +21,7 @@ function Home() {
     <div className="px-4 py-10 max-w-6xl mx-auto">
       {/* Hero Section */}
       <div className="text-center mb-12">
-        <h1 className="text-5xl font-bold text-orange-500">Welcome to FoodBuddy 🍽️</h1>
+        <h1 className="text-5xl font-bold text-orange-500">Welcome to Chirag bsdka 🍽️</h1>
         <p className="text-lg text-gray-600 mt-4">
           Discover your cravings. Order with ease. Enjoy every bite.
         </p>
